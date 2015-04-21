@@ -1,3 +1,24 @@
+## media_export (jade) - 0.2.0-0
+
+The packages in the `media_export` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade media_export` on `Tue, 21 Apr 2015 05:47:38 -0000`
+
+The `media_export` package was released.
+
+Version of package(s) in repository `media_export`:
+- upstream repository: https://github.com/ros/media_export.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## media_export (indigo) - 0.2.0-0
 
 User `william@dosa.local` released the packages in the `media_export` repository into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo media_export -e` on `Tue, 25 Mar 2014 03:51:26 -0000`
