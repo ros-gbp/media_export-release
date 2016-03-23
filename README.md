@@ -1,3 +1,26 @@
+## media_export (kinetic) - 0.2.0-0
+
+The packages in the `media_export` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic media_export` on `Wed, 23 Mar 2016 22:24:40 -0000`
+
+The `media_export` package was released.
+
+Version of package(s) in repository `media_export`:
+
+- upstream repository: https://github.com/ros/media_export.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.38`
+
+
 ## media_export (jade) - 0.2.0-0
 
 The packages in the `media_export` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade media_export` on `Tue, 21 Apr 2015 05:47:38 -0000`
