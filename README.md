@@ -1,3 +1,26 @@
+## media_export (kinetic) - 0.3.0-1
+
+The packages in the `media_export` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic -e media_export` on `Tue, 10 Mar 2020 01:11:15 -0000`
+
+The `media_export` package was released.
+
+Version of package(s) in repository `media_export`:
+
+- upstream repository: https://github.com/ros/media_export.git
+- release repository: https://github.com/ros-gbp/media_export-release.git
+- rosdistro version: `0.2.0-0`
+- old version: `0.2.0-0`
+- new version: `0.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## media_export (melodic) - 0.3.0-1
 
 The packages in the `media_export` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release -r melodic -t melodic -e media_export` on `Tue, 10 Mar 2020 00:54:34 -0000`
